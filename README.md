@@ -1,7 +1,7 @@
 Spedn
 =================================
 
-![logo](/images/spedn-logo-cashwave-144.png "Spedn")
+![logo](https://github.com/sriharikapu/Spedn/blob/master/images/bch-s.png?raw=true)
 
 Spedn is a high level smart contracts language for Bitcoin Cash.
 It is designed for explicity and safety:
