@@ -11,6 +11,6 @@ It is designed for explicity and safety:
 * It is purely-functional - free of side effects, the common source of bugs
 * It has a familiar C-like syntax
 
-> [Quick Start](https://github.com/sriharikapu/Spedn/wiki/Quick-Start/_edit)
+> [Quick Start](https://github.com/sriharikapu/Spedn/wiki/Quick-Start)
 
 > [Docs](http://spedn.rtfd.io)
